@@ -86,7 +86,7 @@ Docker 18.09.7
 
 1. Download OPUS-Fold docker image.
 
-   Coming soon.
+   The docker image we used is hosted on [Baidu Drive](https://pan.baidu.com/s/1LdyJdkO7VebpORY2Fl7lmg) with password `z2xy`. Also, it can be downloaded directly from [Here](http://ma-lab.rice.edu/dist/opus_fold_docker.tar).
 
 2. Docker image preparation.
    ```
