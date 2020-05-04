@@ -1,6 +1,6 @@
 # OPUS-Fold
 
-Only source codes are uploaded to this repo, the contents in constrain_files and other_potentials are not uploaded due to their sizes. The complete version will comming soon.
+Only the source codes are uploaded to this repo, the contents in constrain_files and other_potentials are not uploaded due to their sizes. The complete version is hosted on [Baidu Drive](https://pan.baidu.com/s/1z8rnMf3tkJyc7WS8IX0zIg) with password `744u`. Also, it can be downloaded directly from [Here](http://ma-lab.rice.edu/dist/opus_fold.zip).
 
 
 ## Requirements
@@ -27,7 +27,7 @@ To help you deploy OPUF-Fold in your environment, we show the docker image makin
 
 1. Download OPUS-Fold and its databases.
 
-   comming soon.
+   The complete version of OPUS-Fold is hosted on [Baidu Drive](https://pan.baidu.com/s/1z8rnMf3tkJyc7WS8IX0zIg) with password `744u`. Also, it can be downloaded directly from [Here](http://ma-lab.rice.edu/dist/opus_fold.zip). And the databases of OPUS-Fold are hosted on [Baidu Drive](https://pan.baidu.com/s/1w4W1zTcAt50iCD_CO_YTvQ) with password `8vfz`. Also, they can be downloaded directly from [Here](http://ma-lab.rice.edu/dist/opus_fold_db.tar).
 
 2. Start Docker image and copy the files of OPUS-Fold into it.
    ```
