@@ -113,3 +113,12 @@ Docker 18.09.7
  ***If you want to install OPUS-Fold in your environment, please download the source code and compile it. The source code is under the [source branch](https://github.com/thuxugang/opus_fold/tree/src).***
  
 ## Reference 
+```bibtex
+@article{xu2020opus2,
+  title={OPUS-Fold: An Open-Source Protein Folding Framework Based on Torsion-Angle Sampling},
+  author={Xu, Gang and Wang, Qinghua and Ma, Jianpeng},
+  journal={Journal of Chemical Theory and Computation},
+  year={2020},
+  publisher={ACS Publications}
+}
+```
